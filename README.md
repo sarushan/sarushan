@@ -4,7 +4,6 @@ I'm currently working at Schibsted Norge SMB as a full stack developer.
 
 ## Wanna hangout? 📫 
 
-<ul>
 - 🐦 Twitter - [@sarushan](https://twitter.com/sarushan)
 - ✉️ Mail - [mail@sarushan.no](mailto:mail@sarushan.no)
 
