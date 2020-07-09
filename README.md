@@ -4,7 +4,9 @@ I'm currently working at Schibsted Norge SMB as a full stack developer.
 
 ## Wanna hangout? 📫 
 
-<- Get in touch with me through the socials here 
+<ul>
+- 🐦 Twitter - [@sarushan](https://twitter.com/sarushan)
+- ✉️ Mail - [mail@sarushan.no](mailto:mail@sarushan.no)
 
 <!--
 **sarushan/sarushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
