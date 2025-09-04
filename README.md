@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm currently working at Schibsted Norge SMB as a full stack developer.
+I'm currently working at Mittanbud Marketplaces AS as a full stack developer.
 
 ## Wanna hangout? 📫 
 
 - 🐦 Twitter - [@sarushanv](https://twitter.com/sarushanv)
-- ✉️ Mail - [mail@sarushan.no](mailto:mail@sarushan.no)
 
 <!--
 **sarushan/sarushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
