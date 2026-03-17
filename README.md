@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at EY Skye AS as a full stack developer.
+I'm currently working at EY Skye as a full stack developer.
 
 ## Wanna hangout? 📫 
 
